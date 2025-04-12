@@ -13,4 +13,5 @@ export default defineConfig({
   prefetch: {
     defaultStrategy: "viewport",
   },
+  site: 'http://localhost:4321', // Replace with production URL
 });
